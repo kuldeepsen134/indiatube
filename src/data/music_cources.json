@@ -1,0 +1,80 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Introduction to Music Theory",
+        "description": "Learn the fundamentals of music theory, including scales, chords, and rhythm.",
+        "duration": "10 weeks",
+        "level": "Beginner",
+        "price": 100.0,
+        "instructor": {
+          "name": "John Doe",
+          "bio": "John is a professional musician with over 20 years of experience in teaching music theory.",
+          "photoUrl": "https://example.com/photos/john_doe.jpg"
+        },
+        "reviews": [
+          {
+            "studentName": "Alice Smith",
+            "rating": 5,
+            "comment": "Great course! Very informative and easy to follow."
+          },
+          {
+            "studentName": "Bob Johnson",
+            "rating": 4,
+            "comment": "Good introduction to music theory. I learned a lot."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Advanced Piano Techniques",
+        "description": "Enhance your piano skills with advanced techniques and exercises.",
+        "duration": "12 weeks",
+        "level": "Advanced",
+        "price": 200.0,
+        "instructor": {
+          "name": "Jane Smith",
+          "bio": "Jane is a concert pianist with a passion for teaching advanced piano techniques.",
+          "photoUrl": "https://example.com/photos/jane_smith.jpg"
+        },
+        "reviews": [
+          {
+            "studentName": "Chris Martin",
+            "rating": 5,
+            "comment": "Challenging but very rewarding. Jane is an excellent instructor."
+          },
+          {
+            "studentName": "Dana Lee",
+            "rating": 4,
+            "comment": "Helped me improve my skills significantly. Highly recommend."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Guitar for Beginners",
+        "description": "Start your guitar journey with this comprehensive beginner course.",
+        "duration": "8 weeks",
+        "level": "Beginner",
+        "price": 80.0,
+        "instructor": {
+          "name": "Mike Brown",
+          "bio": "Mike is a professional guitarist and music teacher with over 15 years of experience.",
+          "photoUrl": "https://example.com/photos/mike_brown.jpg"
+        },
+        "reviews": [
+          {
+            "studentName": "Eve Wilson",
+            "rating": 5,
+            "comment": "Perfect for beginners! Mike explains everything very clearly."
+          },
+          {
+            "studentName": "Frank Thomas",
+            "rating": 4,
+            "comment": "A good starting point for learning the guitar. Enjoyed the course."
+          }
+        ]
+      }
+    ]
+  }
+  
